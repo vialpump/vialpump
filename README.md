@@ -59,7 +59,7 @@ Memecoins on Pump.fun are flat. Holding feels passive. Vialpump fixes this by tu
 |----------|------|
 | Website | [vialpump.fun](https://vialpump.fun) |
 | X / Twitter | [@vialpump](https://x.com/vialpump) |
-| Docs | [vialpump-docs](../vialpump-docs) |
+| Docs | [vialpump-docs](https://github.com/vialpump/vialpump-docs) |
 
 <br>
 <div align="center">
